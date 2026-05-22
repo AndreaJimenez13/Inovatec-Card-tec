@@ -1,2 +1,0 @@
-mysql-connector-python
-# pyserial   # descomenta cuando conectes el lector RFID fisico
